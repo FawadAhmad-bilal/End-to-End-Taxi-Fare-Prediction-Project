@@ -1,5 +1,4 @@
 📌 Project Overview
-
 This project uses the Seaborn taxis dataset to analyze taxi trip data and build a machine learning model for predicting ride totals.
 
 ✨ Features
